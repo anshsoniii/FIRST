@@ -31,6 +31,7 @@ public class StudentList {
         for(int i=0;i<=sList.length-1;i++)
         {
             System.out.println("Student name: "+sList[i].getStudentName());
+            System.out.println("Hello World");
         }
      }
 
